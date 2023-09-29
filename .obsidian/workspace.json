@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +150,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9347e38e4c9e5296",
+  "active": "80041c7ade75b86c",
   "lastOpenFiles": [
     "chap8. finailzer와 cleaner 사용을 피하라.md"
   ]
