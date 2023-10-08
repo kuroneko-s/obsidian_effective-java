@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "019d76fcd3e74700",
@@ -146,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b570b7b25240aeea",
+  "active": "26be0fecf6242e6a",
   "lastOpenFiles": [
     "chap8. finailzer와 cleaner 사용을 피하라.md",
     "conflict-files-obsidian-git.md",
