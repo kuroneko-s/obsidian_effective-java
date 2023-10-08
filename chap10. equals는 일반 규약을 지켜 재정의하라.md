@@ -20,13 +20,13 @@ equals는 재정의하지 않는게 가장 좋은 방법이다.
 값 클래스에서도 싱글톤이 보장이 된다면 재정의하지 않아도 된다. (재정의 하지 않아도 되는 조건이 우선적으로 적용됨.)
 #### 재정의시 반드시 지켜야하는 일반 규약.
 기본적으로 Object의 equals 메서드에 주석으로 해당내용이 기재되어있다.
-1. 반사성
+1. 반사성(reflexivity)
 	null이 아닌 모든 참조 값 x에 대해, x.equals(x) == true
-2. 대칭성
+2. 대칭성(symmetry)
 	null이 아닌 모든 참조 값 x, y에 대해, x.equals(y) == true && y.equals(x) == true
-3. 추이성
+3. 추이성(transitivity)
 	null이 아닌 모든 참조 값 x, y, z에 대해, x.equals(y) == true && y.equals(z) == true && x.equals(z) == true
-4. 일관성
+4. 일관성(consistency)
 	null이 아닌 모든 참조 값 x, y에 대해, x.equals(y)를 반복해서 호출하면 항상 같은 값이 반환되어야 한다.
 5. not-null
 	null이 아닌 모든 참조 값 x에 대해, x.equals(null) == false
