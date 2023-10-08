@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e96289b4a4128cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chap8. finailzer와 cleaner 사용을 피하라.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b570b7b25240aeea",
+  "active": "e96289b4a4128cce",
   "lastOpenFiles": [
+    "chap8. finailzer와 cleaner 사용을 피하라.md",
+    "conflict-files-obsidian-git.md",
     "chap9. try-finally보다는 try-with-resource를 사용하라..md",
-    "chap10. equals는 일반 규약을 지켜 재정의하라.md",
-    "chap8. finailzer와 cleaner 사용을 피하라.md"
+    "chap10. equals는 일반 규약을 지켜 재정의하라.md"
   ]
 }
