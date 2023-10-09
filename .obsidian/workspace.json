@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chap11. equalse를 재정의하려거든 hashCode도 재정의하라.md",
+                "file": "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap11. equalse를 재정의하려거든 hashCode도 재정의하라.md",
+                "file": "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap11. equalse를 재정의하려거든 hashCode도 재정의하라.md",
+                "file": "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chap11. equalse를 재정의하려거든 hashCode도 재정의하라.md"
+                "file": "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "26f28b7f11caf939",
   "lastOpenFiles": [
     "chap10. equals는 일반 규약을 지켜 재정의하라.md",
-    "chap11. equalse를 재정의하려거든 hashCode도 재정의하라.md",
+    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap8. finailzer와 cleaner 사용을 피하라.md",
     "conflict-files-obsidian-git.md",
     "chap9. try-finally보다는 try-with-resource를 사용하라..md"
