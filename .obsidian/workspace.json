@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "019d76fcd3e74700",
@@ -159,7 +160,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "26be0fecf6242e6a",
+  "active": "de8f0a699eebca3f",
   "lastOpenFiles": [
     "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap12. toString을 항상 재정의하라.md",
