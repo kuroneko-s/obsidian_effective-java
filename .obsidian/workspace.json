@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2759d91126abf719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap12. toString을 항상 재정의하라.md",
+                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap12. toString을 항상 재정의하라.md",
+                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chap12. toString을 항상 재정의하라.md"
+                "file": "chap13. clone 재정의는 주의해서 진행하라.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "de8f0a699eebca3f",
+  "active": "2759d91126abf719",
   "lastOpenFiles": [
-    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap12. toString을 항상 재정의하라.md",
+    "chap13. clone 재정의는 주의해서 진행하라.md",
+    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap10. equals는 일반 규약을 지켜 재정의하라.md",
     "chap8. finailzer와 cleaner 사용을 피하라.md",
     "conflict-files-obsidian-git.md",
