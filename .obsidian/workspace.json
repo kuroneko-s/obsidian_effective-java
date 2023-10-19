@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd496d92d29afa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "de8f0a699eebca3f",
+  "active": "cd496d92d29afa07",
   "lastOpenFiles": [
-    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap13. clone 재정의는 주의해서 진행하라.md",
+    "무제 파일.md",
+    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap12. toString을 항상 재정의하라.md",
     "chap10. equals는 일반 규약을 지켜 재정의하라.md",
     "chap8. finailzer와 cleaner 사용을 피하라.md",
