@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b7da5b5430ff01f7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7da5b5430ff01f7",
+  "active": "cd496d92d29afa07",
   "lastOpenFiles": [
     "chap13. clone 재정의는 주의해서 진행하라.md",
     "chap14. Comparable을 구현할지 고민하라.md",
