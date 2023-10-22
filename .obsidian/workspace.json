@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd496d92d29afa07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chap14. Comparable을 구현할지 고민하라.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b228a8b8cc1fb85",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
