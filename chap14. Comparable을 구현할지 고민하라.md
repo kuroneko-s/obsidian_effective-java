@@ -21,6 +21,7 @@ Comparable을 구현했으면 해당 객체는 순서가 있는 개체임을 알
 이 인터페이스를 구현하면 정렬 컬렉션이나 검색, 정렬 알고리즘 객체 (Collections, Array) 같은곳에서 쓰기 편해짐.
 
 equals로 비교하는게 같냐는게 중요하긴 한게 순서를 보장해주는 Collection같은 곳에서 동치성 비교를 equals를 안쓰고 compareTo를 사용한다고 함.
+
 > Treeset은 진짜로 compareTo로 동치성 비교하고 있음..
 
 
