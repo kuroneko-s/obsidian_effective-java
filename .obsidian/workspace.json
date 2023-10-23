@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "file": "chap15. 클래스와 멤버의 접근 권한을 최소화하라.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1286fe826630cdf8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "019d76fcd3e74700",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "file": "chap15. 클래스와 멤버의 접근 권한을 최소화하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md",
+                "file": "chap15. 클래스와 멤버의 접근 권한을 최소화하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chap13. clone 재정의는 주의해서 진행하라.md"
+                "file": "chap15. 클래스와 멤버의 접근 권한을 최소화하라.md"
               }
             }
           }
@@ -158,14 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1286fe826630cdf8",
+  "active": "de8f0a699eebca3f",
   "lastOpenFiles": [
-    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
+    "conflict-files-obsidian-git.md",
+    "chap15. 클래스와 멤버의 접근 권한을 최소화하라.md",
     "chap13. clone 재정의는 주의해서 진행하라.md",
+    "chap14. Comparable을 구현할지 고민하라.md",
+    "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap12. toString을 항상 재정의하라.md",
     "chap10. equals는 일반 규약을 지켜 재정의하라.md",
     "chap8. finailzer와 cleaner 사용을 피하라.md",
-    "conflict-files-obsidian-git.md",
     "chap9. try-finally보다는 try-with-resource를 사용하라..md"
   ]
 }
