@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1286fe826630cdf8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "de8f0a699eebca3f",
+  "active": "1286fe826630cdf8",
   "lastOpenFiles": [
     "chap11. equals를 재정의하려거든 hashCode도 재정의하라.md",
     "chap13. clone 재정의는 주의해서 진행하라.md",
